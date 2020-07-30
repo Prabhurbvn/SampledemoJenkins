@@ -4,6 +4,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="basics.FbTitle"/>
+      <class name="basics.rediffTitle"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
